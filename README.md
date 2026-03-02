@@ -1,3 +1,6 @@
+![alt text](Screenshots/Cyber_Event_Logo.png)
+
+
 # 📜 Cybersecurity History // Event Log
 
 ![Cybersecurity History](https://img.shields.io/badge/Cybersecurity_History-Event_Log-f59e0b?style=for-the-badge&logo=history&logoColor=white)
@@ -15,19 +18,8 @@
 
 ---
 
-## 📋 Repository Info
-
-### **About** 📜
-
-**Cybersecurity History // Event Log** is an interactive educational timeline documenting the most significant events in the history of cybersecurity — from the first computer worm in 1971 to the major supply chain attacks of the 2020s. Designed as a comprehensive learning resource for students, security professionals, and history enthusiasts, this platform features an interactive timeline with expandable event cards, a knowledge assessment quiz, key terminology glossary, research activities, reflection questions, and a lab completion checklist. 📚
-
-### **Website** 🌐
-
-https://willie-conway.github.io/Cybersecurity-History/
-
-### **Topics** 🏷️
-
-`cybersecurity-history` `timeline` `malware-history` `computer-virus` `worm` `ransomware` `stuxnet` `morris-worm` `solarwinds` `creeper-worm` `brain-virus` `melissa-virus` `iloveyou` `conficker` `wannacry` `colonial-pipeline` `log4shell` `cybersecurity-education` `infosec-history` `security-events`
+## Overview
+This interactive web-based learning tool explores the history of cybersecurity through 17 major events, organized by decade. It includes a knowledge quiz, glossary, research activity, reflection questions, and a lab checklist to track progress.
 
 ---
 
@@ -89,6 +81,8 @@ https://willie-conway.github.io/Cybersecurity-History/
 | 2021 | **Colonial Pipeline Attack**         | Ransomware   | Largest US energy infrastructure attack   |
 | 2021 | **Log4Shell (CVE-2021-44228)**       | Vuln         | Critical zero-day in Log4j library        |
 
+![alt text](<Screenshots/HISTORICAL EVENT LOG.png>)
+
 ---
 
 ## 📝 **Module 02: Knowledge Quiz**
@@ -123,6 +117,8 @@ Q1: What was the Creeper worm and why is it historically significant?
 [D] The first phishing attack, using social engineering via ARPANET email
 ```
 
+![alt text](<Screenshots/KNOWLEDGE ASSESSMENT.png>)
+
 ---
 
 ## 📖 **Module 03: Key Terminology**
@@ -147,6 +143,8 @@ Q1: What was the Creeper worm and why is it historically significant?
 - **Hover effects** on table rows
 - **Term highlighting** in amber for visibility
 - **Responsive design** for mobile viewing
+
+![alt text](<Screenshots/KEY TERMINOLOGY.png>)
 
 ---
 
@@ -173,6 +171,9 @@ Q1: What was the Creeper worm and why is it historically significant?
 - **Open browser button** for independent research
 - **Save instructions** for lab folder organization
 
+![alt text](<Screenshots/RESEARCH ACTIVITY.png>)
+
+
 ---
 
 ## 💭 **Module 05: Reflection Questions**
@@ -191,6 +192,9 @@ Q1: What was the Creeper worm and why is it historically significant?
 - **Numbered question cards** with purple accents
 - **Instructions to save answers** to Cybersecurity-Lab folder
 - **Analysis-focused questions** requiring synthesis, not summary
+
+
+![alt text](<Screenshots/REFLECTION QUESTIONS.png>)
 
 ---
 
@@ -214,6 +218,8 @@ Q1: What was the Creeper worm and why is it historically significant?
 - **Live progress counter** in header (X/6)
 - **Submit button** with completion message
 - **Success/failure feedback** based on completion status
+
+![alt text](<Screenshots/LAB COMPLETION CHECKLIST.png>)
 
 ---
 
