@@ -1,7 +1,8 @@
-![alt text](Screenshots/Cyber_Event_Logo.png)
-
 
 # 📜 Cybersecurity History // Event Log
+
+![alt text](Screenshots/Cyber_Event_Logo.png)
+
 
 ![Cybersecurity History](https://img.shields.io/badge/Cybersecurity_History-Event_Log-f59e0b?style=for-the-badge&logo=history&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
